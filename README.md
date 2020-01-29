@@ -1,2 +1,2 @@
 # Shopping-Cart
-I think the name descript it .
+I think the name describe it .
